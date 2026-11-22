@@ -4,4 +4,4 @@ I'm an 3rd year undergraduate researcher in Computer Sciences at UW-Madison. My 
 
 Feel free to reach out through bzhang599 [at] wisc [dot] edu
 
-My personal website: 645t.net
+My personal website: [645t.net](https://645t.net)
