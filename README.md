@@ -1,4 +1,4 @@
-## Hi~ I'm 645t 👋
+## Hi~
 
 I'm an 3rd year undergraduate researcher in Computer Sciences at UW-Madison. My research interests include Large Language Models, Machine Learning and their applications in Tabular Data.
 
